@@ -4,5 +4,5 @@ Final Project pada kelas [Belajar Dasar Pemprogaman Web](https://www.dicoding.co
 
 * [HTML](https://www.w3schools.com/html/)
 * [CSS](https://www.w3schools.com/css/)
-* [Javascript](https://www.w3schools.com/js/]
+* [Javascript](https://www.w3schools.com/js/)
 * [AOS](https://michalsnik.github.io/aos/)
